@@ -1,0 +1,14 @@
+html, body, section, h1, h2, p, li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit; 
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
